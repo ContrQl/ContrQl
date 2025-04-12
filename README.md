@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![banner](https://github.com/mujie-chen/mujie-chen/blob/main/banner.png?raw=true)
 <!--
 Here are some ideas to get you started:
 
